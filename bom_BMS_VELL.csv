@@ -1,0 +1,43 @@
+Item,Category,Value,References,Package,Description,Assembly,Distributor,Distributor Part#,Distributor#2,Distributor Part#2,Manufacturer,Manufacturer Part#,Quantity
+1,Bead,120R,"B1, B8",B0603,Ferrite bead,,LCSC,C139175,,,,,2
+2,Capacitor,0.1uF,"C1, C2, C3, C4, C5, C6, C7, C13, C17, C18",C0402,Capacitor,,,,,,,,10
+3,Capacitor,2.2uF,"C8, C9, C10",C0603,Capacitor,,,,,,,,3
+4,Capacitor,10uF,"C11, C12",C0402,Capacitor,,,,,,,,2
+5,Capacitor,100nF,"C14, C15, C16, C32",C0402,Capacitor,,LCSC,C307331,,,,,4
+6,Capacitor,10nF,"C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C33, C34, C35, C36, C39, C49, C50, C51, C52, C53",C0603,Capacitor,,,,,,,,23
+7,Capacitor,1nF,"C37, C40, C45, C48",C0603,Capacitor,,,,,,,,4
+8,Capacitor,1uF,"C38, C42, C43",C0603,Capacitor,,,,,,,,3
+9,Capacitor,3.3uF,C41,C0603,Capacitor,,,,,,,,1
+10,Capacitor,470nF,C44,C0603,Capacitor,,,,,,,,1
+11,Capacitor,100nF,"C46, C47",C0603,Capacitor,,,,,,,,2
+12,Diode,Diode,"D1, D2, D3",,,,,,,,,,3
+13,Diode,Diode_Schottky,D4,,Schottky diode,,,,,,,,1
+14,,MP2797DFP-0001-T,IC1,,"Battery Management 7-Cell to 16-Cell, High-Accuracy Battery Monitor and Protector with Coulomb Counting",,,,,,,,1
+15,,TPT1042V-DF6R-S,IC2,,"Automotive grade, High-Speed CAN Transceiver IC, standby mode, 3.3V VIO, 8-DFN (3x3)",,,,,,,,1
+16,,GD25Q128ESIGR,IC3,SOIC127P790X216-8N,NOR Flash,,,,,,,,1
+17,Connector,CON_2x5,J1,HDR_P2.54_2x5,CONN HEADER VERT 12POS 2.54MM,,,,,,,,1
+18,,Conn_01x17,"J2, J4, J5",,"Generic connector, single row, 01x17, script generated (kicad-library-utils/schlib/autogen/connector/)",,,,,,,,3
+19,,Conn_01x08,J3,,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",,,,,,,,1
+20,Inductor,1uH,"L1, L2, L3, L4, L5, L6, L7",,Inductor Power,,,,,,,,7
+21,,NPN,Q1,,"Bipolar transistor symbol for simulation only, substrate tied to the emitter",,,,,,,,1
+22,Resistor,10k,R1,R0402,Resistor,,,,,,,,1
+23,Resistor,100k,"R2, R3",R0402,Resistor,,,,,,,,2
+24,Resistor,22R,R4,R0402,Resistor,,,,,,,,1
+25,Resistor,10K,R5,R0402,Resistor,,,,,,,,1
+26,Resistor,120,R6,R0402,Resistor,,,,,,,,1
+27,Resistor,1K,"R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R27, R28, R29, R37, R42, R43, R44",R1206,Resistor,,,,,,,,24
+28,Resistor,0,R24,R0603,Resistor,,,,,,,,1
+29,,R_Shunt,"R25, R26",,Shunt resistor with Kelvin connections,,,,,,,,2
+30,Resistor,270,"R30, R31",R1206,Resistor,,,,,,,,2
+31,Resistor,0,R32,R1206,Resistor,,,,,,,,1
+32,Resistor,10K,"R33, R38, R39, R40, R41",R1206,Resistor,,,,,,,,5
+33,Resistor,110K,R34,R1206,Resistor,,,,,,,,1
+34,Resistor,20,"R35, R36",R1206,Resistor,,,,,,,,2
+35,Resistor,R0603,"R45, R46, R47, R48, R49, R50, R51, R52, R53, R54, R55, R56, R57, R58, R59, R60, R61, R62, R63, R64, R65, R66, R67, R68, R69, R70, R71, R72",R0603,Resistor,,,,,,,,28
+36,,~,U1,,,,,,,,,,1
+37,IC,MP2641,"U2, U4, U5, U6, U7, U8, U9",QFN26_4.0x4.0_MP2640,,,,,,,,,7
+38,IC,MP27942,U3,SOIC16WB_7.5x10.35_P1.27,,,,,,,,,1
+39,,LM5164DDA,U10,HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm_ThermalVias,"1A synchronous buck converter with ultra-low IQ, 6V - 100V input, adjustable output voltage, HSOP-8",,,,,,,,1
+40,,TPT485N-SO1R,U11,,,,,,,,,,1
+41,Oscillator,24MHz,X4,Crystal_SMD_3225-4Pin,"Crystal Clock Oscillator, DIP8-style metal package",,LCSC,C5203549,,,,,1
+42,Mosfet,NCEP023N10LL,"Q2,Q3,Q4,Q5",,,,,,,,,,4
